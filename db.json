@@ -107965,16 +107965,8 @@
         "ACTIVE_SWITCH": "Y",
         "SEC_DESCRIPTION": "VNQ=N1"
     }
-],
+]
 
 
 
-    "test" : [
-        {
-            "id" : 1,
-            "name" : "nitin",
-            "gotra" : "kashyap" 
-        }
-
-    ]
 }
