@@ -107965,8 +107965,44 @@
         "ACTIVE_SWITCH": "Y",
         "SEC_DESCRIPTION": "VNQ=N1"
     }
-]
-
+],
+"pendingreq" : [{
+    "id" : 1,
+    "NAME": "Vanguard Val Etf Dec11",
+    "CRNCY": "INR",
+    "MARKET_SECTOR": "Equity",
+    "EXC_CODE": "OC",
+    "SECURITY_TYPE": "SINGLE STOCK FUTURE",
+    "CNTRY_ISSUE": "USA",
+    "SECURITY_TYPE2": "FUTURE",
+    "FUTURES_CATEGORY": "Stock",
+    "LAST_TRADEABLE_DT": "23/02/23",
+    "FUR_EXCH_NAME_LONG": "NASDAQ Global Select Market",
+    "FUT_CONT_SIZE": "100",
+    "FUT_TICK_SIZE": "0.01",
+    "FUT_TICK_VALUE": "100",
+    "FUT_GEN_MONTH": "NA",
+    "FUT_FIRST_TRADE_DT": "NA",
+    "CASH_SETTLED": "NULL",
+    "FUT_TRADING_UNITS": "100",
+    "QUOTE_UNITS": "10",
+    "FUT_MONTH_YEAR": "NA",
+    "FUT_CONTRACT_DATE": "NA",
+    "ID_BB_GLOBAL": "BBG001PR8T71",
+    "ID_BB_GLOBAL_COMPANY": "NA",
+    "ID_BB_GLOBAL_NAME": "NA",
+    "QUOTED_CURRENCY": "USD",
+    "TICKER": "VNQ=N1",
+    "CUSIP": "922908769",
+    "ISIN": "IE00B3XX0622",
+    "SEDOL": "BJL0662",
+    "ICRA_RATING": "NA",
+    "MOODY_RATING": "AA2",
+    "CRISIL_RATING": "NA",
+    "WEBSITE": "https://investor.vanguard.com/corporate-portal",
+    "ACTIVE_SWITCH": "Y",
+    "SEC_DESCRIPTION": "VNQ=N1"
+}]
 
 
 }
