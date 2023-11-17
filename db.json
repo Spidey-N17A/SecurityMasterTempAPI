@@ -187,6 +187,7 @@
         "SEC_DESCRIPTION": "AMZF=8"
     },
     {
+        "id" : "7",
         "NAME": "Amazon.com Futs",
         "CRNCY": "USD",
         "MARKET_SECTOR": "Equity",
