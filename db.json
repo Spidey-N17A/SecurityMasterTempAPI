@@ -75,6 +75,7 @@
         "SEC_DESCRIPTION": "UY8=5"
     },
     {
+        "id" : 3,
         "NAME": "Amazon.com Futs",
         "CRNCY": "USD",
         "MARKET_SECTOR": "Equity",
@@ -110,7 +111,9 @@
         "ACTIVE_SWITCH": "Y",
         "SEC_DESCRIPTION": "AMZF=10"
     },
+
     {
+        "id" : 4,
         "NAME": "Amazon.com Inc",
         "CRNCY": "USD",
         "MARKET_SECTOR": "Equity",
@@ -147,6 +150,7 @@
         "SEC_DESCRIPTION": "AMZG=2"
     },
     {
+        "id" : 5,
         "NAME": "Amazon.com Futs",
         "CRNCY": "USD",
         "MARKET_SECTOR": "Equity",
