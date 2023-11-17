@@ -2,7 +2,7 @@
  "securitydata" : [
 
     {
-        "id": "1",
+        "id": 1,
         "NAME": "Amazon.com SSDF",
         "CRNCY": "USD",
         "MARKET_SECTOR": "Equity",
