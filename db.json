@@ -38,6 +38,7 @@
         "SEC_DESCRIPTION": "UY8=2"
     },
     {
+        "id" : 2,
         "NAME": "Amazon.com SSDF",
         "CRNCY": "USD",
         "MARKET_SECTOR": "Equity",
